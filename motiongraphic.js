@@ -8,6 +8,6 @@ function MotionGraphic(){
   ctx = canvas.getContext("2d");
   ctx.beginPath();
   ctx.arc(100,75,10,0*Math.PI,2*Math.PI);
-  ctx.lineWidth = 5;
+  ctx.lineWidth = 3;
   ctx.stroke();
 }
