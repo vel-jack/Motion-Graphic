@@ -1,4 +1,4 @@
-function MotionGrapic(){
+function MotionGraphic(){
   var mG = document.getElementById("MGraphic");
   var canvas = document.createElement('canvas');
   canvas.id = "CCcanvas";
